@@ -1,5 +1,3 @@
-# SI-GuidedProject-534057-1691872638
-AI-Powered Real-Time Communication System for People with Disabilities
 # AI-Powered Real-Time Communication System for People with Disabilities
 
 ## Project Overview
